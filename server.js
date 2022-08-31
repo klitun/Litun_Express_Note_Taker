@@ -16,5 +16,5 @@ app.use('/', html);
 
 //Code to launch the server and tell it what port to listen to
 app.listen(PORT, () => {
-    console.log(`API server now on port ${PORT}!`);
-  });
+  console.log(`API server now on port ${PORT}!`);
+});
